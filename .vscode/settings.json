@@ -1,0 +1,5 @@
+{
+    "pasteImage.path": "./attachments",
+    "pasteImage.defaultName": "YMMDDHHmmss",
+    "pasteImage.prefix": "./"
+}

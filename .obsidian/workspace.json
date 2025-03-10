@@ -1,0 +1,225 @@
+{
+  "main": {
+    "id": "f831e0524c926372",
+    "type": "split",
+    "children": [
+      {
+        "id": "8580c05a61ab0c0b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d626d5ef88b1d94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chemistry/110/Molecular Orbital Theory.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Molecular Orbital Theory"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73b32775d23da5ad",
+    "type": "split",
+    "children": [
+      {
+        "id": "599b02bd3cee06d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f037c354410e98bb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9def9b7da745790a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c84bf5bd310bde17",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "d5ba64406a45843b",
+    "type": "split",
+    "children": [
+      {
+        "id": "64360c4799cf5c1a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ad9295788ef72f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Physics/114/Torque.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Torque"
+            }
+          },
+          {
+            "id": "71e5618afb3c48b5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9f7b6bf6dd89f58c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2a01b61aba283c6f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Physics/114/Torque.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Torque"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "4d626d5ef88b1d94",
+  "lastOpenFiles": [
+    "Chemistry/110/VSEPR Theory and Molecular Shapes.md",
+    "cover.jpg",
+    "Chemistry/110/110.json",
+    "Chemistry/110/Valence Bond Theory - Sigma Framework.md",
+    "Chemistry/110/Dipole Moments and Intermolecular Forces.md",
+    "Chemistry/110/Introduction to Organic Chemistry.md",
+    "Chemistry/110/Isomers.md",
+    "Chemistry/110/Valence Bond Theory -  Pi Framework.md",
+    "Chemistry/110/Molecular Orbital Theory.md",
+    "Chemistry/110/IUPAC Naming Protocol.md",
+    "README.md",
+    "Chemistry/110/attachments/20250308231660.png",
+    "Chemistry/110/attachments/20250308233020.png",
+    "Chemistry/110/attachments/20250308015419.png",
+    "Chemistry/110/attachments/20250308015406.png",
+    "Chemistry/110/attachments/20250308014610.png",
+    "Chemistry/110/attachments/20250308015349.png",
+    "Chemistry/110/attachments/20250308015357.png",
+    "Releases/Changelog.md",
+    "Releases/Updating.md",
+    "Next Steps.md",
+    "index.md",
+    "Getting started.md",
+    "Chemistry/110/attachments",
+    "Chemistry/110/attachments/![](./attachments/20250308014557.png)\n.png",
+    "Chemistry/110/attachments/![](./attachments",
+    "Chemistry/110/attachments/![](.",
+    "Chemistry/110/attachments/20250308014557.png",
+    "Chemistry/110/{$currentFileDir}/attachments",
+    "Chemistry/110/{$currentFileDir}",
+    "Chemistry/attachments",
+    "Chemistry/110./attachments",
+    "Chemistry/110.",
+    "Physics/114/Instantaneous Velocity and Acceleration.md",
+    "Chemistry/110/attachments/![](attachments",
+    "Physics/114/Torque.md",
+    "Pasted image 20250308004853.png.md",
+    "attachments/Pasted%20image%2020250308004403.png.md",
+    "Deployment/Cloudflare Pages.md",
+    "Deployment/GitHub Pages.md",
+    "Deployment/Build.md",
+    "Deployment/Netlify.md",
+    "Excalidraw/Drawing 2025-03-08 00.22.10.excalidraw.md",
+    "202503080020.md",
+    "Physics/114/Untitled.canvas",
+    "Chemistry/101/Untitled.canvas",
+    "Chemistry/101/Nuclear Chemistry.md"
+  ]
+}
