@@ -10,7 +10,7 @@ export default defineConfig({
   },
   
   theme: {
-    color: "red",
+    color: "lime",
   },
 
   notes: {

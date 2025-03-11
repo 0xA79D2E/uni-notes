@@ -17,6 +17,8 @@ course: CHEM110
 
 These structural differences define distinct compounds with different physical and chemical properties (e.g., boiling points differ by ~11°C).
 
+> The branched nature of 2-Methylpropane reduces potential contact between molecules causing reduced intermolecular dispersion forces
+
 ---
 
 ## Constitutional Isomers: Non-Alkyl Substituents
@@ -46,3 +48,8 @@ These structural differences define distinct compounds with different physical a
 | −Cl                 | chloro |
 | −Br                 | bromo  |
 | −I                  | iodo   |
+
+## Drawing constitutional isomers
+1. Determine all parent geometries
+2. determine all hydrogen environments
+3. determine all isomers

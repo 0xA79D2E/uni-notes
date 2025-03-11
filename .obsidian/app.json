@@ -1,5 +1,6 @@
 {
   "rightToLeft": false,
   "attachmentFolderPath": "./attachments",
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true
 }
