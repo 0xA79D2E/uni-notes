@@ -8,10 +8,10 @@ For a system of discrete masses, the rotational inertia is the sum of the rotati
 
 $$I = \Sigma mr^2 = m_{1}r_{1}^2 +  m_{2}r_{2}^2 +  \dots + m_{n}r_{n}^2 $$
 
-Unlike mass, rotational inertia is dependent on the shape of the object, specifically the distribtuion of mass at the edges of the object. 
+Unlike mass, rotational inertia is dependent on the shape of the object, specifically the distribution of mass at the edges of the object. 
 
 $$ [I] = [m][r^2] = kgm^2 $$
 
 
->![](./attachments/202503111635510.png)
+![](./attachments/202503111635510.png)
 > Rotational inertiae of common geometries
