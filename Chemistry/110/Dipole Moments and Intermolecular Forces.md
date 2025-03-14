@@ -3,15 +3,15 @@ date: 2025-02-25
 course: CHEM110
 ---
 
-## Dipole Moments and Molecular Geometry【44†source】
+## Dipole Moments and Molecular Geometry
 A dipole moment occurs when there is a separation of charge in a molecule due to differences in electronegativity between atoms.
 
 ### Formula for Dipole Moment
-$ \mu = q \times d $
+$\mu = q \times d$
 where:
-- $ \mu $ = dipole moment (Debye, D)
-- $ q $ = magnitude of charge
-- $ d $ = distance between charges
+- $\mu$ = dipole moment (Debye, D)
+- $q$ = magnitude of charge
+- $d$ = distance between charges
 
 ### Factors Affecting Dipole Moments
 1. **Electronegativity Difference**: Larger differences result in stronger dipoles.
@@ -26,7 +26,7 @@ where:
 | CH4       | Tetrahedral    | No (cancels)  |
 | NH3       | Trigonal Pyramidal | Yes      |
 
-## Intermolecular Forces (IMFs)【43†source】
+## Intermolecular Forces (IMFs)
 Intermolecular forces arise due to dipole interactions and impact physical properties like boiling points and solubility.
 
 ### Types of IMFs
@@ -36,7 +36,7 @@ Intermolecular forces arise due to dipole interactions and impact physical prope
 4. **Ion-Dipole Forces**: Between ions and polar molecules (e.g., salt in water).
 
 ### Relative Strengths
-$ \text{LDF} < \text{Dipole-Dipole} < \text{Hydrogen Bonding} < \text{Ion-Dipole} $
+$\text{LDF} < \text{Dipole-Dipole} < \text{Hydrogen Bonding} < \text{Ion-Dipole}$
 
 ## Applications
 - **Predicting Solubility**: "Like dissolves like" (polar dissolves polar).

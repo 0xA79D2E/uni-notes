@@ -1,3 +1,7 @@
+---
+date: 
+course: PHYS114
+---
 
 ![](./attachments/202503111630530.png)
 
@@ -5,7 +9,7 @@ $F_t$ will cause a torque $\tau = F_{t}r = mr^2\alpha$.
 
 The total torque about an axis for a rigid body composed of discrete masses:
 
-$$\tau = \sigma \tau_{i} = \Sigma (mr^2)_{i}\alpha$$
+$$\tau = \Sigma \tau_{i} = \Sigma (mr^2)_{i}\alpha$$
 thus $\tau = I\alpha$. This is the angular analogue of Newton's Second Law.
 
 

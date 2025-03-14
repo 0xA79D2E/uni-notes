@@ -1,5 +1,6 @@
 ---
 date: 2025-03-06
+course: PHYS114
 ---
 
 **Torque** is the tendency of a force to cause a rotation about an axis. Torque, $\vec{\tau}$, is a vector.

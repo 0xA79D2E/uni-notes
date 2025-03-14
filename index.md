@@ -8,4 +8,4 @@ panel: false
 
 The answer: an attitude befitting a hero, one full of fury - an attitude I call siege mentality. Once he enters the field, all else is forgotten and he is transformed into a valiant warrior with girded loins, ready to do battle with the task at hands. -->
 
-<!-- This is where you will win the battle - in the playhouse of your mind. -->
+This is where you will win the battle - in the playhouse of your mind.

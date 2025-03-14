@@ -1,3 +1,7 @@
+---
+course: PHYS114
+---
+
 The **instantaneous velocity** of an object is given as the slope of the tangent line to the position-time curve.
 
 $$\vec{v} = \lim_{ \Delta t \to 0 } \frac{\Delta\vec{x}}{\Delta t} = \frac{d\vec{x}}{dt}$$

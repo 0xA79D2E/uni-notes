@@ -1,3 +1,7 @@
+---
+course: PHYS114
+---
+
 The moment of inertia (or rotational inertia) of a rigid body, $I$, measures the body's resistance to changes in its state of rotational motion. It is the rotational analogue of mass.
 
 For a single particle rotating about an axis with distance $r$,
