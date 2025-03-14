@@ -3,3 +3,9 @@ node_modules/
 dist/
 .parcel-cache/
 .obsidian/workspace.json
+.obsidian/workspaces.json
+.obsidian/themes.DS_Store
+node_modules/
+dist/
+.parcel-cache/
+.obsidian/workspace.json
