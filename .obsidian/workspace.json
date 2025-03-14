@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics/114/Instantaneous Velocity and Acceleration.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Instantaneous Velocity and Acceleration"
+              "title": "index"
             }
           },
           {
@@ -212,11 +212,11 @@
   },
   "active": "bfc8b55f29136fd8",
   "lastOpenFiles": [
+    "Physics/114/Instantaneous Velocity and Acceleration.md",
     "Physics/114/Moment of Inertia.md",
     "Physics/114/Rotational Dynamics.md",
     "Physics/114/Torque.md",
     "Physics/114/Torque and Angular Acceleration.md",
-    "Physics/114/Instantaneous Velocity and Acceleration.md",
     "Physics/114/attachments/Pasted image 20250308003053.png",
     "Physics/114/attachments/202503131636550.png",
     "Physics/114/attachments/202503131639120.png",
