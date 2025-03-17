@@ -34,11 +34,11 @@ export default defineConfig({
   sidebar: {
     sections: [
       {
-        label: "Basics",
+        label: "Projects",
         groups: [
           {
             query: createNotesQuery({
-              pattern: "^/[^/]+$",
+              pattern: "^/projects/",
             }),
           },
         ],
