@@ -15,7 +15,7 @@ A sterically demanding eclipsed conformation is dominant for both compounds. The
 
 
 
-![](./attachments/Pasted%20image%2020250318124333.png)
+![](./attachments/20250318124333.png)
 
 The angle strain in both of these geometries 
 

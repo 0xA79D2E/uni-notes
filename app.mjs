@@ -33,17 +33,35 @@ export default defineConfig({
   },
   sidebar: {
     sections: [
+            
       {
-        label: "Projects",
+        label: "Chemistry",
         groups: [
           {
-            query: createNotesQuery({
-              pattern: "^/projects/",
-            }),
+            label: "110",
+            query: {
+              sort: [["date", "desc"]], // Sort by date in descending order (latest first)
+              filter: [
+                ["filePathStem", "isNotEqual", "/index"], // Exclude '/index'
+                ["filePathStem", "matches", "/110/"], // Match the pattern '/110/'
+              ]
+            },
+          },
+          {
+            label: "101",
+            expanded: false,
+            query: {
+              sort: [["date", "desc"]], // Sort by date in descending order (latest first)
+              filter: [
+                ["filePathStem", "isNotEqual", "/index"], // Exclude '/index'
+                ["filePathStem", "matches", "/101/"], // Match the pattern '/101/'
+              ]
+            },
           },
         ],
       },
-      {
+	  
+	  {
         label: "Physics",
         groups: [
           {
@@ -71,32 +89,26 @@ export default defineConfig({
       },
       
       {
-        label: "Chemistry",
+        label: "Projects",
         groups: [
           {
-            label: "110",
-            query: {
-              sort: [["date", "desc"]], // Sort by date in descending order (latest first)
-              filter: [
-                ["filePathStem", "isNotEqual", "/index"], // Exclude '/index'
-                ["filePathStem", "matches", "/110/"], // Match the pattern '/110/'
-              ]
-            },
-          },
-          {
-            label: "101",
-            expanded: false,
-            query: {
-              sort: [["date", "desc"]], // Sort by date in descending order (latest first)
-              filter: [
-                ["filePathStem", "isNotEqual", "/index"], // Exclude '/index'
-                ["filePathStem", "matches", "/101/"], // Match the pattern '/101/'
-              ]
-            },
+            query: createNotesQuery({
+              pattern: "^/projects/",
+            }),
           },
         ],
-      },      
-
+      },
+	  
+	        {
+        label: "Robotics",
+        groups: [
+          {
+            query: createNotesQuery({
+              pattern: "^/Robotics Foundations I/",
+            }),
+          },
+        ],
+      },
       {
         label: "Guides",
         groups: [

@@ -7,7 +7,7 @@
 
 However, to effectively illustrate the conformational isomers of ethane it is best to view the molecule along the C-C bond, front to back
 
-![](./attachments/Pasted%20image%2020250314092507.png)
+![](./attachments/20250314092507.png)
 
 Consider the Newman projections for the two conformers of ethane:
 
@@ -24,5 +24,5 @@ angle between two h-c-c-h planes is a dihedral angle: in staggered it is 60 and 
 
 In general, the energetic differences between conformational isomers can be illustrated best with a **potential energy diagram**, where y = potential energy and x = $\theta$. 
 
-![](./attachments/Pasted%20image%2020250314093755.png)
+![](./attachments/20250314093755.png)
 

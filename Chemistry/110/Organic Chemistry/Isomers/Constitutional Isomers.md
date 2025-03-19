@@ -9,7 +9,7 @@ course: CHEM110
 
 
 >
->![](20250308233020.png)
+>![](./attachments/20250308233020.png)
 >Example: Constitutional Isomers of C₄H₁₀
 - **Butane**: Continuous 4-carbon chain
 - **2-Methylpropane**: 3-carbon chain with 1 substituent
@@ -27,7 +27,7 @@ These structural differences define distinct compounds with different physical a
 - **Haloalkanes (Alkyl Halides):** Replacing an alkane hydrogen with a halogen results in a class of compounds called haloalkanes or alkyl halides.
 
 
->![](20250308231660.png)
+>![](./attachments/20250308231660.png)
 >Example: Constitutional Isomers of C₃H₇Cl
 - **1-Chloropropane**
 - **2-Chloropropane**
