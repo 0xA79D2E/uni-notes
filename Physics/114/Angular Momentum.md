@@ -1,3 +1,8 @@
+---
+date: 2025-03-18
+course: PHYS114
+---
+
 For a single particle, angular momentum $\vec{L}$ is a vector given by the cross product of the displacement vector from the rotation axis with the linear momentum of the particle
 
 $$\vec{L} = \vec{r} \times p \vec{}$$

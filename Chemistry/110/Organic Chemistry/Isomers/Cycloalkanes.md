@@ -1,3 +1,8 @@
+---
+date: 2025-03-18
+course: CHEM110
+---
+
 A cycloalkane is an alkane whose carbon atoms are arranged cyclically (i.e. in a ring).
 - effectively non-polar compounds
 - general formula of $C_nH_{2n}$ where $n \geq 3$
