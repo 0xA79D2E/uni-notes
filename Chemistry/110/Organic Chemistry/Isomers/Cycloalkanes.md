@@ -35,4 +35,17 @@ To alleviate ring strain (i.e. angular repulsion and torsional strain), cyclohex
 
 To draw chair conformers efficiently and accurately, follow the rules in Tables 8.2 and 8.3
 
+## Configurational Isomers
 
+Disubstituted cycloalkanes may exhibit [[configurational isomerism]]
+- the ring freezes the geometry and preserves the distinct spatial rel. between substituents
+- cycloalkanes with subs. on two or more ring $\ce{C}$ atoms are classified as *[[cis-trans isomers]]* 
+
+
+##### Identifying a geometric isomer:
+1. is there a ring
+2. are there at least 2 subs.
+3. are those 2 subs on different sp2 orbitals (i.e. $\ce{C}$ atoms) on the ring
+
+
+![](20250321830680.png)
