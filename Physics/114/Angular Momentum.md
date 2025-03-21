@@ -14,7 +14,8 @@ $$\vec{L} = I\vec{\omega}$$
 Units: $[\vec{L}] = [I][\vec{\omega}] = [kg][m^2][s^{-1}]$
 
 
-The rotational analog of *impulse* is: $\vec{\tau} = \frac{d \vec{L}}{dt}$
+The rotational analog of *impulse* is:
+$$\vec{\tau} = \frac{d \vec{L}}{dt}$$
 
 Similarly to linear momentum, angular momentum changes only if there is a net torque acting on the system. When net torque is zero, angular momentum is conserved.
 
