@@ -1,4 +1,4 @@
->it's as different as bob and george
+> it's as different as Bob and George
 >\- tony when discussing the physical properties of cis-trans isomerized molecules
 
 > it's mickey-mouse
@@ -10,13 +10,11 @@
 > this is my domain
 > \- tony describing his lordship over chemistry
 
-
->i don't like calling it *me* teaching *you* because you're in charge of your own learning
-> \- andrew justifying his laziness
+> I don't like calling it *me* teaching *you* because you're in charge of your own learning
+> \- Andrew justifying his laziness
 
 > put it all on red
-> \- lisa feeding danny's gambling addiction
+> \- Lisa feeding Danny's gambling addiction
 
 > don't go home and kill yourself
-> \- chi fu when shayan deleted his work
-
+> \- Chi-Fu when Shayan deleted his work
